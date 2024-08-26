@@ -1,0 +1,6 @@
+classes= 80
+train=/mnt/raid0/trajectorypred/Datasets/COCO/data/coco/trainvalno5k.txt
+valid=/mnt/raid0/trajectorypred/Datasets/COCO/data/coco/5k.txt
+names=/mnt/raid0/trajectorypred/Datasets/COCO/data/coco.names
+backup=backup/
+eval=coco
